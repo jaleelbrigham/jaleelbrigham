@@ -1,16 +1,19 @@
-## Hi there 👋
+# 🌴 Jaleel Brigham 🌴
 
-<!--
-**jaleelbrigham/jaleelbrigham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 data science student building real projects and figuring things out as i go
 
-Here are some ideas to get you started:
+## what i’m working on
+- ✈️ flight-deck → breaking down airline delay data and seeing what a drives delays  
+- 🧠 getting more comfortable with pandas aand python in particular
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## what i’m aiming for
+- 🎯 build a portfolio that doesn’t look like everyone else’s  
+- 🚀 land a solid data science/analyst internship for summer 2027  
+- 🛠️ get sharp enough to take raw data and turn it into something people can use daily 
+
+## tools right now
+- 🐍 python  
+- 🐼 pandas  
+
+## note
+📈 still early but i’m consistent with it 
