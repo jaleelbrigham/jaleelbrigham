@@ -1,19 +1,17 @@
-# 🌴 Jaleel Brigham 🌴
+#  Jaleel Brigham 🌴
 
-📊 data science student building real projects and figuring things out as i go
+📊 data science student building projects @ GSU
 
 ## what i’m working on
-- ✈️ flight-deck → breaking down airline delay data and seeing what a drives delays  
-- 🧠 getting more comfortable with pandas aand python in particular
+- ✈️ flight-deck → breaking down airline delay data and seeing what drives delays  
+- 🧠 comfortability with pandas & python
 
-## what i’m aiming for
-- 🎯 build a portfolio that's unique to my own experience
-- 🚀 land a solid data science/analyst internship for summer 2027  
-- 🛠️ get sharp enough to take raw data and turn it into something people can use daily 
+## goals
+- 🎯 establish my portfolio
 
 ## tools right now
 - 🐍 python  
 - 🐼 pandas  
 
 ## note
-📈 still early but i’m consistent with it 
+📈 still early but consistent with it 
